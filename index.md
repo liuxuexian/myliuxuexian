@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+感谢爸妈感谢父母
 
 You can use the [editor on GitHub](https://github.com/liuxuexian/myliuxuexian/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
